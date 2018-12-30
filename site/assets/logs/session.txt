@@ -1,0 +1,1 @@
+2018-12-30 00:50:23	admin	http://localhost:8080/portfolio/admin/login/	Successful login for 'admin'

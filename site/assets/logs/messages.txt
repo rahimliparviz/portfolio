@@ -1,0 +1,11 @@
+2018-12-30 00:49:17	guest	http://localhost:8080/portfolio/	Added filedata to DB schema for 'images'
+2018-12-30 13:38:30	admin	http://localhost:8080/portfolio/admin/setup/languages/	Added filedata to DB schema for 'language_files'
+2018-12-30 13:38:30	admin	http://localhost:8080/portfolio/admin/setup/languages/	Added filedata to DB schema for 'language_files_site'
+2018-12-30 19:29:56	admin	http://localhost:8080/portfolio/admin/setup/template/removeFields	Deleted field &quot;skills&quot; data in 0 row(s) from 0 page(s) using template &quot;skills_section&quot;. [page-by-page]
+2018-12-30 19:29:56	admin	http://localhost:8080/portfolio/admin/setup/template/removeFields	Deleted field &quot;services&quot; data in 0 row(s) from 0 page(s) using template &quot;skills_section&quot;. [page-by-page]
+2018-12-30 22:47:13	admin	http://localhost:8080/portfolio/admin/setup/template/removeFields	Deleted field &quot;headline&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-12-30 22:47:13	admin	http://localhost:8080/portfolio/admin/setup/template/removeFields	Deleted field &quot;body&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-12-30 22:47:13	admin	http://localhost:8080/portfolio/admin/setup/template/removeFields	Deleted field &quot;sidebar&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-12-30 22:53:09	admin	http://localhost:8080/portfolio/admin/setup/template/removeFields	Deleted field &quot;images&quot; data in 1 row(s) from 1 page(s) using template &quot;home&quot;. [page-by-page]
+2018-12-30 23:15:54	admin	http://localhost:8080/portfolio/admin/page/sort/	Updated sort for 5 pages
+2018-12-30 23:41:44	admin	http://localhost:8080/portfolio/admin/page/sort/	Updated sort for 2 pages

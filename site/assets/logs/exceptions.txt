@@ -1,0 +1,2 @@
+2018-12-30 13:43:29	admin	http://localhost:8080/portfolio/	Method Pages::where does not exist or is not callable in this context (in C:\xampp\htdocs\portfolio\wire\core\Wire.php line 519)
+2018-12-30 17:24:30	admin	http://localhost:8080/portfolio/admin/module/	SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'InputfieldRepeater' for key 'class' (in C:\xampp\htdocs\portfolio\wire\core\Modules.php line 1720)
